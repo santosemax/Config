@@ -9,4 +9,4 @@ set expandtab
 set hlsearch
 set background=dark
 highlight Comment ctermfg=green
-highlight Normal ctermbg=235
+highlight Normal ctermbg=233
