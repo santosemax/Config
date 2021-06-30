@@ -7,4 +7,6 @@ set smarttab
 set autoindent
 set expandtab
 set hlsearch
+set background=dark
 highlight Comment ctermfg=green
+highlight Normal ctermbg=235
