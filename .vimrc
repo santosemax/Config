@@ -1,12 +1,12 @@
-syntax on
-
-set number
-set ruler
-set tabstop=2 shiftwidth=2
-set smarttab
-set autoindent
-set expandtab
-set hlsearch
-set background=dark
-highlight Comment ctermfg=green
-highlight Normal ctermbg=233
+syntax on 
+  
+set number 
+set ruler 
+set tabstop=4 shiftwidth=4 
+set smarttab 
+set autoindent 
+set expandtab 
+set hlsearch 
+set background=dark 
+highlight Comment ctermfg=green 
+highlight Normal ctermbg=233                                
